@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548644320612",
+    "project_id": "vantal-39c5f",
+    "storage_bucket": "vantal-39c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548644320612:android:6afda41bd35f3d3b667671",
+        "android_client_info": {
+          "package_name": "com.example.vantal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWxbhMlshOtLsH6s4Gcu5HugojmXw9GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
